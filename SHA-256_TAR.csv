@@ -1,0 +1,19 @@
+SHA-256,File
+bf3cb9f11765d0d86d85e8d811bf1d31c917643e053cb5e3aa15ce79900eae64,Archive\Toolkit_v12.0.tar
+3290d5514635611d7dc5fde95b92480b541089425266ec5422993b9677bdc047,Archive\Toolkit_v12.1.tar
+df9f58dd3c56bb0cd4656fbb0d3822f63e6f0d55304811dd7f16838449d0dc5e,Archive\Toolkit_v12.2.tar
+fa92acd656790dcf18f82613546b6fc9603bfd9e67dc19a48d9b6c48735d6bbe,Archive\Toolkit_v12.3.tar
+8071cfcf4569986d6ce7198adad7eedff38613b993d9299c184db824b02e963c,Archive\Toolkit_v12.4.tar
+5ce134803b945ac36ac578b4287008dff670fa8e23ccacaa46ab2a9ca3de0d9c,Archive\Toolkit_v12.5.tar
+7184d10891b3d15c6925a12300968c2ce83c068a9c662271ec35660367c60b0c,Archive\Toolkit_v12.6.tar
+32113aa308b81bc23b1510eb9048cdc582d613f663132d8f1cc97fc4cf7f60cf,Archive\Toolkit_v12.7.tar
+9e8cb87d2a80ff74a6e789b1389a1de077810f0cd697fdb984855a59ccc72e74,Archive\Toolkit_v12.8.tar
+887318afb348efb573fb94a574c30fc42c27c3a271c5e9baf5d8d460061a019e,Archive\Toolkit_v12.9.tar
+f2df02f02e613a52545f708f29c75754c859c523389d11ad64a329578ef2fa87,Archive\Toolkit_v13.0.tar
+22d0cac9ee18875ee13a6fc02b2e29124bd73b25c48a278e3bea950cfe1670cb,Archive\Toolkit_v13.1.tar
+==================================================,==================================================
+20e67ce8f4cb536e9c79a878b8dbc117f0394ea11026102dfe5c9885447be64f,Archive.tar
+f07c05c3d51db623737952f59c881a83aadfb6a367ab26896248fce4f420fb62,Packs.tar
+7ce2fde5dbf0bfef7470789f3904971de1f1f9be9dbac5a39a674d76363b9a3e,Toolkit_v13.2.tar
+==================================================,==================================================
+I didn't compute the hash of the packs because they were too many.
