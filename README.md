@@ -10,7 +10,7 @@ SHA-1, SHA-256, and SHA-512 hashes from the MSMG Toolkit files (when archived in
 
 The link to the [offical site](https://msmgtoolkit.in/downloads.html).
 
-I also have the files mirrored in Google Drive (Llink pending), although I would still recommend you download from the official source.
+I also have the files mirrored in my [Google Drive]() (link pending), although I would still recommend you to download it from the official source.
 
 
 
