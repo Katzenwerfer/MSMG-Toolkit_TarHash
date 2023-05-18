@@ -1,6 +1,6 @@
 # MSMG-Toolkit Tarball Hashes
 
-SHA-1, SHA-256, and SHA-512 hashes from the MSMG Toolkit files (when archived into a tarball).
+SHA-1, SHA-256, and SHA-512 hashes from the MSMG Toolkit files (when archived into a tarball using 7-Zip).
 
 ## Where can I download MSMG-Toolkit?
 
@@ -27,5 +27,6 @@ That being said, I would still recommend running it on a **Virtual Machine** or 
 ## TODO
 - Setup GitHub pages for easier viewing of the tables
 - Add fancy stuff to the README.md
+- Find a method for easily reproducible tarballs
 
 Files Last Check:  06/03/2023
